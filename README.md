@@ -1,7 +1,7 @@
 # Hi there, I'm Igor 👋
-![https://www.linkedin.com/in/igor-kvachenok/](https://img.shields.io/badge/-LinkedIn-FFFFFF?logo=linkedin&logoColor=0A66C2&style=flat-square)
-![https://www.kaggle.com/tmvimfb](https://img.shields.io/badge/-Kaggle-FFFFFF?logo=kaggle&logoColor=20BEFF&style=flat-square)
-![https://www.codewars.com/users/tmvfb](https://img.shields.io/badge/-Codewars-FFFFFF?logo=codewars&logoColor=B1361E&style=flat-square)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFFFFF?logo=linkedin&logoColor=0A66C2&style=flat-square)](https://www.linkedin.com/in/igor-kvachenok/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-FFFFFF?logo=kaggle&logoColor=20BEFF&style=flat-square)](https://www.kaggle.com/tmvimfb)
+[![Codewars](https://img.shields.io/badge/-Codewars-FFFFFF?logo=codewars&logoColor=B1361E&style=flat-square)](https://www.codewars.com/users/tmvfb)  
   
 I have a master's degree in chemistry, I worked in clinical research, and I am currently a student of Data Science & Management programme at Leuphana University. How did I end up here? I've always enjoyed mathematics, data analysis and I like solving real-life problems by writing code! 
   
