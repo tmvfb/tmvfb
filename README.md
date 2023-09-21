@@ -3,13 +3,13 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-FFFFFF?logo=kaggle&logoColor=20BEFF&style=flat-square)](https://www.kaggle.com/tmvimfb)
 [![Codewars](https://img.shields.io/badge/-Codewars-FFFFFF?logo=codewars&logoColor=B1361E&style=flat-square)](https://www.codewars.com/users/tmvfb)  
   
-I have a master's degree in chemistry, work experience in clinical research, and I am currently a student of the Data Science & Management MSc programme at Leuphana University of Lüneburg. How did I end up here? I've always enjoyed mathematics and data analysis — and I love solving real-life problems by writing code!
+I have a master's degree in chemistry from Lomonosov Moscow State University, work experience in clinical research, and I am currently a student of the Data Science & Management MSc programme at Leuphana University of Lüneburg. How did I end up here? I've always enjoyed mathematics and data analysis — and I love solving real-life problems by writing code!
   
 My goal is to become a data scientist, but I am also enthusiastic about creating backend solutions in Python. 
   
 I have almost one year of experience in creating my own Python projects. By now I have completed the following online courses:
-* Data Science course by Yandex Practicum ([certificate](https://drive.google.com/file/d/18nasmZC3yutfiVHTZWv_6prl1smfY36V/view?usp=drive_link))
-* Python web dev course by hexlet.io ([profile link](https://ru-hexlet-io.translate.goog/u/tmvfb?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp))
+* Data Science course by Yandex Practicum (10.2022 – 07.2023) ([certificate](https://drive.google.com/file/d/18nasmZC3yutfiVHTZWv_6prl1smfY36V/view?usp=drive_link))
+* Python web dev course by hexlet.io (10.2022 – 05.2023) ([profile link](https://ru-hexlet-io.translate.goog/u/tmvfb?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp))
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
