@@ -7,7 +7,7 @@ I have a master's degree in chemistry, work experience in clinical research, and
   
 My goal is to become a data scientist, but I am also enthusiastic about creating backend solutions in Python. 
   
-I have almost one year of experience in creating my own Python projects in. By now I have completed the following online courses:
+I have almost one year of experience in creating my own Python projects. By now I have completed the following online courses:
 * Data Science course by Yandex Practicum ([certificate](https://drive.google.com/file/d/18nasmZC3yutfiVHTZWv_6prl1smfY36V/view?usp=drive_link))
 * Python web dev course by hexlet.io ([profile link](https://ru-hexlet-io.translate.goog/u/tmvfb?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp))
 
