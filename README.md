@@ -3,11 +3,20 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-FFFFFF?logo=kaggle&logoColor=20BEFF&style=flat-square)](https://www.kaggle.com/tmvimfb)
 [![Codewars](https://img.shields.io/badge/-Codewars-FFFFFF?logo=codewars&logoColor=B1361E&style=flat-square)](https://www.codewars.com/users/tmvfb)  
   
-I have a master's degree in chemistry from Lomonosov Moscow State University, work experience in clinical research, and I am currently a student of the Data Science & Management MSc programme at Leuphana University of Lüneburg. How did I end up here? I've always enjoyed mathematics and data analysis — and I love solving real-life problems by writing code!
+Data Science student with more than one year of experience in analysis and visualisation of industrial and scientific data. I am also enthusiastic about creating backend solutions in Python. 
+
+## Short bio
+* Honours master's degree in Chemistry from Lomonosov Moscow State University (2020) 👨‍🔬
+* 2 years of work experience in clinical research (finance and clinical operations) 💊
+* Currently a student: Data Science MSc at Leuphana University of Lüneburg 🎓
   
-My goal is to become a data scientist, but I am also enthusiastic about creating backend solutions in Python. 
+How did I end up here? I have always enjoyed mathematics and data analysis — and I love solving real-life problems by writing code!
   
-I have almost one year of experience in creating my own Python projects. By now I have completed the following online courses:
+
+  
+My current interests include understanding the whole data cycle in companies, from maintaining data infrastructure to data visualization. I also want to know more about how data science and deep learning in particular change natural sciences and medicine.
+  
+By now I have completed the following online courses:
 * Data Science course by Yandex Practicum (10.2022 – 07.2023) ([certificate](https://drive.google.com/file/d/18nasmZC3yutfiVHTZWv_6prl1smfY36V/view?usp=drive_link))
 * Python web dev course by hexlet.io (10.2022 – 05.2023) ([profile link](https://ru-hexlet-io.translate.goog/u/tmvfb?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp))
 
