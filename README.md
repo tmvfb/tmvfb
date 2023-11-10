@@ -3,7 +3,7 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-FFFFFF?logo=kaggle&logoColor=20BEFF&style=flat-square)](https://www.kaggle.com/tmvimfb)
 [![Codewars](https://img.shields.io/badge/-Codewars-FFFFFF?logo=codewars&logoColor=B1361E&style=flat-square)](https://www.codewars.com/users/tmvfb)  
   
-Data Science student with more than one year of experience in analysis and visualisation of industrial and scientific data. I am also enthusiastic about creating backend solutions in Python. 
+Data Science student with over a year of experience in analysis and visualisation of industrial and scientific data. I am also enthusiastic about creating backend solutions in Python. 
 
 ## Short bio
 * Honours master's degree in Chemistry from Lomonosov Moscow State University (2020) 👨‍🔬
@@ -16,7 +16,7 @@ How did I end up here? I have always enjoyed mathematics and data analysis — a
   
 My current interests include understanding the whole data cycle in companies, from maintaining data infrastructure to data visualization. I also want to know more about how data science and deep learning in particular change natural sciences and medicine.
   
-By now I have completed the following online courses:
+By now, I have completed the following online courses:
 * Data Science course by Yandex Practicum (10.2022 – 07.2023) ([certificate](https://drive.google.com/file/d/18nasmZC3yutfiVHTZWv_6prl1smfY36V/view?usp=drive_link))
 * Python web dev course by hexlet.io (10.2022 – 05.2023) ([profile link](https://ru-hexlet-io.translate.goog/u/tmvfb?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp))
 
