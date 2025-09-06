@@ -3,18 +3,17 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-FFFFFF?logo=kaggle&logoColor=20BEFF&style=flat-square)](https://www.kaggle.com/tmvimfb)
 [![Codewars](https://img.shields.io/badge/-Codewars-FFFFFF?logo=codewars&logoColor=B1361E&style=flat-square)](https://www.codewars.com/users/tmvfb)  
   
-Data Science student with over a year of experience in analysis and visualisation of industrial and scientific data. I am also enthusiastic about creating backend solutions in Python. 
+Data Science student with over 1,5 years of experience in platform engineering as a working student. I am also enthusiastic about creating backend solutions in Python. 
 
 ## Short bio
 * Honours master's degree in Chemistry from Lomonosov Moscow State University (2020) 👨‍🔬
 * 2 years of work experience in clinical research (finance and clinical operations) 💊
-* Currently a student: Data Science MSc at Leuphana University of Lüneburg 🎓
+* Currently 🎓: Data Science MSc at Leuphana University of Lüneburg, working on my data extraction- and GraphRAG-focused thesis
+* Working at [prokube](https://prokube.ai/) on MLOps/LLMOps platform to make Data Science workflows easier 🛠️
   
 How did I end up here? I have always enjoyed mathematics and data analysis — and I love solving real-life problems by writing code!
   
-
-  
-My current interests include understanding the whole data cycle in companies, from maintaining data infrastructure to data visualization. I also want to know more about how data science and deep learning in particular change natural sciences and medicine.
+My current interests include understanding the whole data cycle in companies, from maintaining data infrastructure to data visualization. I also enjoy learning how data science and deep learning in particular change natural sciences and medicine.
   
 By now, I have completed the following online courses:
 * Data Science course by Yandex Practicum (10.2022 – 07.2023) ([certificate](https://drive.google.com/file/d/18nasmZC3yutfiVHTZWv_6prl1smfY36V/view?usp=drive_link))
@@ -27,9 +26,10 @@ By now, I have completed the following online courses:
 ![Scikit-Learn](https://img.shields.io/badge/-sklearn-f7f7f7?logo=scikit-learn&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 ### Created projects with / currently studying:
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-f7f7f7?logo=pytorch&style=for-the-badge)
 ![PySpark](https://img.shields.io/badge/-PySpark-2b5060?logo=apachespark&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-html-E34F26?logo=html5&style=for-the-badge&logoColor=white)
