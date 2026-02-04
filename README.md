@@ -11,7 +11,7 @@ I’m interested in the **infrastructure side of AI** — not only models, but t
 
 ## 🧠 What I do
 
-I work at **prokube** buildin a kubeflow-based AI/MLOps platform. My focus areas:
+I work at [**prokube**](https://prokube.ai/) helping to build a kubeflow-based AI/MLOps platform. My focus areas:
 
 * ML infrastructure & platform engineering
 * Model serving
