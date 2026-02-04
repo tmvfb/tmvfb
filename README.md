@@ -1,59 +1,57 @@
-# Hi there, I'm Igor 👋
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFFFFF?logo=linkedin&logoColor=0A66C2&style=flat-square)](https://www.linkedin.com/in/igor-kvachenok/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-FFFFFF?logo=kaggle&logoColor=20BEFF&style=flat-square)](https://www.kaggle.com/tmvimfb)
-[![Codewars](https://img.shields.io/badge/-Codewars-FFFFFF?logo=codewars&logoColor=B1361E&style=flat-square)](https://www.codewars.com/users/tmvfb)  
-  
-Data Science student with over 1,5 years of experience in platform engineering as a working student. I am also enthusiastic about creating backend solutions in Python. 
-
-## Short bio
-* Honours master's degree in Chemistry from Lomonosov Moscow State University (2020) 👨‍🔬
-* 2 years of work experience in clinical research (finance and clinical operations) 💊
-* Currently 🎓: Data Science MSc at Leuphana University of Lüneburg, working on my data extraction- and GraphRAG-focused thesis
-* Working at [prokube](https://prokube.ai/) on MLOps/LLMOps platform to make Data Science workflows easier 🛠️
-  
-How did I end up here? I have always enjoyed mathematics and data analysis — and I love solving real-life problems by writing code!
-  
-My current interests include understanding the whole data cycle in companies, from maintaining data infrastructure to data visualization. I also enjoy learning how data science and deep learning in particular change natural sciences and medicine.
-  
-By now, I have completed the following online courses:
-* Data Science course by Yandex Practicum (10.2022 – 07.2023) ([certificate](https://drive.google.com/file/d/18nasmZC3yutfiVHTZWv_6prl1smfY36V/view?usp=drive_link))
-* Python web dev course by hexlet.io (10.2022 – 05.2023) ([profile link](https://ru-hexlet-io.translate.goog/u/tmvfb?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp))
-
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-postgreSQL-4169E1?logo=postgresql&style=for-the-badge&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/-sklearn-f7f7f7?logo=scikit-learn&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-
-### Created projects with / currently studying:
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-f7f7f7?logo=pytorch&style=for-the-badge)
-![PySpark](https://img.shields.io/badge/-PySpark-2b5060?logo=apachespark&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-html-E34F26?logo=html5&style=for-the-badge&logoColor=white)
-![CSS](https://img.shields.io/badge/-css-1572B6?logo=css3&style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-
-### Tools I use:
-![NeoVim](https://img.shields.io/badge/-neovim-57A143?logo=neovim&style=for-the-badge&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge)
-![WSL2](https://img.shields.io/badge/-WSL2-f7f7f7?logo=ubuntu&style=for-the-badge)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-f7f7f7?logo=jupyter&style=for-the-badge)
+# Hi, I'm Igor 👋
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/igor-kvachenok/)
 
 
-<!--
-**tmvfb/tmvfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Platform Engineer working on ML infrastructure, model serving, and MLOps systems.**
+I build the systems that bring machine learning from experiments into production.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m interested in the **infrastructure side of AI** — not only models, but the software and hardware that makes them usable in real-world environments.
+
+
+## 🧠 What I do
+
+I work at **prokube** on an AI/MLOps platform, building infrastructure and tooling that enables scalable ML and LLM workloads in production environments.
+
+My focus areas:
+
+* ML infrastructure & platform engineering
+* Model serving systems
+* MLOps / LLMOps tooling
+
+
+## 🛠 Skills
+
+### 🚀 ML Platform & MLOps
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white\&style=for-the-badge)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-0052CC?style=for-the-badge)
+![KServe](https://img.shields.io/badge/KServe-4B32C3?style=for-the-badge)
+![Argo Workflows](https://img.shields.io/badge/Argo-ef7b4d?logo=argo\&logoColor=white\&style=for-the-badge)
+![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio\&logoColor=white\&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions\&logoColor=white\&style=for-the-badge)
+
+### ⚙️ Infrastructure & Systems
+
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?\&style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-f7f7f7?logo=linux\&style=for-the-badge)
+
+### 🧠 ML & Data Workloads
+
+![PySpark](https://img.shields.io/badge/-PySpark-2b5060?logo=apachespark\&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas\&style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/-sklearn-f7f7f7?logo=scikit-learn\&style=for-the-badge)
+
+### 🧩 Backend & Tooling
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white\&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django\&style=for-the-badge)
+
+
+## ⚙️ Background
+
+* MSc (equivalent) degree in **Chemistry** from Lomonosov Moscow State University
+* **2 years in clinical research operations** in the pharmaceutical industry
+* MSc in **Data Science** from Leuphana University Lüneburg
+
+This path shaped my engineering approach: **precision, reproducibility, and real-world reliability**.
