@@ -2,8 +2,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/igor-kvachenok/)
 
 
-**AI Platform Engineer working on ML infrastructure, model serving, and MLOps systems.**
-I build the systems that bring machine learning from experiments into production.
+AI Platform Engineer working on ML infrastructure, model serving, and MLOps systems. I build the systems that bring machine learning from experiments into production.
 
 
 I’m interested in the **infrastructure side of AI** — not only models, but the software and hardware that makes them usable in real-world environments.
