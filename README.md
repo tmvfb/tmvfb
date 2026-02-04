@@ -25,9 +25,11 @@ I work at [**prokube**](https://prokube.ai/) helping to build a kubeflow-based A
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white\&style=for-the-badge)
 ![Kubeflow](https://img.shields.io/badge/Kubeflow-0052CC?style=for-the-badge)
 ![KServe](https://img.shields.io/badge/KServe-4B32C3?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge)
 ![Argo Workflows](https://img.shields.io/badge/Argo-ef7b4d?logo=argo\&logoColor=white\&style=for-the-badge)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio\&logoColor=white\&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions\&logoColor=white\&style=for-the-badge)
+
 
 ### ⚙️ Infrastructure & Systems
 
