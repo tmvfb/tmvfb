@@ -53,5 +53,3 @@ I work at [**prokube**](https://prokube.ai/) helping to build a kubeflow-based A
 * MSc (equivalent) degree in **Chemistry** from Lomonosov Moscow State University
 * **2 years in clinical research operations** in the pharmaceutical industry
 * MSc in **Data Science** from Leuphana University Lüneburg
-
-This path shaped my engineering approach: **precision, reproducibility, and real-world reliability**.
